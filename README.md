@@ -38,7 +38,7 @@ Nowoczesny, lekki system zarządzania zgłoszeniami oparty na Flask. Idealny dla
 
 1. **Klonowanie repozytorium**
 ```bash
-git clone https://github.com/yourusername/ticketify.git
+git clone https://github.com/g4ug4n/ProjektChmury.git
 cd ticketify
 ```
 
